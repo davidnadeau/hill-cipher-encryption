@@ -1,0 +1,20 @@
+Z:\1p40\project\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe.config
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill_Cipher.Form1.resources
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill_Cipher.Resources.resources
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.vbproj.GenerateResource.Cache
+Z:\1p40\project\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe
+Z:\1p40\project\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.pdb
+Z:\1p40\project\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.xml
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.exe
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.xml
+Z:\1p40\project\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.pdb
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe.config
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.exe
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.xml
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.pdb
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.exe
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.pdb
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\bin\Debug\Hill Cipher.xml
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill_Cipher.Form1.resources
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill_Cipher.Resources.resources
+C:\Users\Pineapple\Desktop\Hill Cipher\Hill Cipher\obj\Debug\Hill Cipher.vbproj.GenerateResource.Cache
